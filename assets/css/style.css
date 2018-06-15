@@ -1,0 +1,28 @@
+body {
+    background: scroll url(https://www.toptal.com/designers/subtlepatterns/patterns/memphis-colorful.png);
+}
+.container {
+    background: white;
+}
+
+img {
+    margin: 2rem;
+    width: 95%;
+}
+
+#timer {
+    font-family: monospace;
+    font-size: 120px;
+    color: red;
+    text-align: center;
+}
+
+p {
+    font-family: Verdana;
+    font-size: 20px;
+}
+li {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: blue;
+}
